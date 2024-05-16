@@ -18,3 +18,5 @@ Abstract:
 Reference:
 Orrison, R., Vuille, M., Cauhy Rodrigues, J., Strı́kis, N., Cruz, F., Andreu-Hayles, L., Rodriguez-Caton, M.,
 Pacific Interannual and Multidecadal Variability recorded in $\delta$<sup>18</sup>O of South American Monsoon precipitation, in review at JGR: Atmospheres
+
+[![DOI](https://zenodo.org/badge/801624416.svg)](https://zenodo.org/doi/10.5281/zenodo.11205705)
