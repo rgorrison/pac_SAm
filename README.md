@@ -4,7 +4,8 @@ This repository includes notebooks with Python code used to build figures for th
 
 Abstract:
 
-The following scripts are included: 
+-------------
+### The following scripts are included: 
 - F1_tpi_n34_inds.ipynb: Figure 1 shows the TPI and ENSO indices of variability in the study period. 
 - F2_SASM_proxyloc_ocnmodes.ipynb: Figure 2 shows the spatial domains used for the TPI and ENSO index calculations, DJF climatological features of South American Monsoon Climate (low-level (850 hPa) wind field, DJF percent of annual rainfall, and the locations of terrestrial $\delta$<sup>18</sup>O archives used in the study.
 - F3_Composites_d18o_obs_icam5_gnip_climoIPO_ENSO.ipynb: Figure 3 shows the DJF climatology of $\delta$<sup>18</sup>O<sub>p</sub> and differences of $\delta$<sup>18</sup>O<sub>p</sub> fields from iCAM5 simulations and terrestrial archives between positive and negative phases of the Pacific modes (IPO, ENSO).
