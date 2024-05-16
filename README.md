@@ -1,6 +1,6 @@
 # README for pac_SAm respository
 
-This repository includes notebooks with Python code used to build figures for the article "Pacific Interannual and Multidecadal Variability recorded in <span style="white-space: nowrap;">$\delta$<sup>18</sup>O</span> of South American Summer Monsoon precipitation," (in review at the Journal of Geophysical Research Letters: Atmospheres) (<italics>reference will be inserted when available</italics>).
+This repository includes notebooks with Python code used to build figures for the article "Pacific Interannual and Multidecadal Variability recorded in <span style="white-space: nowrap;">$\delta$<sup>18</sup>O</span> of South American Summer Monsoon precipitation," (in review at the Journal of Geophysical Research: Atmospheres) (<italics>reference will be inserted when available</italics>).
 
 Abstract:
 
